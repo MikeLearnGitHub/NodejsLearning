@@ -1,7 +1,7 @@
 {
-  "name": "NodejsLearning",
+  "name": "nodejslearning",
   "version": "1.0.0",
-  "description": "",
+  "description": "Test edit",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
