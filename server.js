@@ -24,7 +24,6 @@ app.get('/listUsersInCache', (req, res) => {
 
 const server = app.listen(8081, () => {
     console.log("server running on port 8081");
-    console.log('users from require: ', userListCached);
 })
 
 
