@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/MikeLearnGitHub/NodejsLearning/issues"
   },
-  "homepage": "https://github.com/MikeLearnGitHub/NodejsLearning#readme"
+  "homepage": "https://github.com/MikeLearnGitHub/NodejsLearning#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
